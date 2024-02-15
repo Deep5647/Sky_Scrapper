@@ -1,3 +1,13 @@
+using MVP Structer.....
+model
+provider
+helper
+Pages :
+i). Welcome Screen :
+ii). Home Screen :
+iii). Detail Screen :
+
+
 ![s1](https://github.com/Deep5647/Sky_Scrapper/assets/155975421/0f99475e-5de9-4a8d-9393-e9e5dd61daec)
 ![s2](https://github.com/Deep5647/Sky_Scrapper/assets/155975421/e9fbbe58-954a-4270-ac25-584c51cbb44e)
 ![s3](https://github.com/Deep5647/Sky_Scrapper/assets/155975421/a3a1850e-532e-4602-924b-33e3f016c4a0)
